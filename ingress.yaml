@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: jenkins.ashutoshh.in
+  - host: rajesh.ashutoshh.in
     http:
       paths:
       - path: /
