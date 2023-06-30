@@ -2,7 +2,7 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: ashu-ingress
-  namespace: ashu-final-app
+  namespace: rajesh-ns
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
