@@ -5,7 +5,7 @@ metadata:
   labels:
     app: ashu-appweb
   name: ashu-appweb
-  namespace: ashu-final-app
+  namespace: rajesh-ns
 spec:
   replicas: 3
   selector:
