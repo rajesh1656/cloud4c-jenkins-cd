@@ -5,7 +5,7 @@ metadata:
   labels:
     app: ashulb
   name: ashulb
-  namespace: ashu-final-app
+  namespace: rajesh-ns
 spec:
   ports:
   - name: 80-80
